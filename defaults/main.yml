@@ -1,0 +1,5 @@
+---
+# defaults file for nat-stack-eip
+
+config_dir: /var/tmp
+number_eips: 1
